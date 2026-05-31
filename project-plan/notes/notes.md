@@ -23,18 +23,17 @@ Next.js
 React
 TypeScript
 Tailwind CSS
-shadcn/ui
+
 
 Backend
 NestJS
-Node.js
 TypeScript
 
 Database
 MongoDB
 
 Authentication
-Firebase Auth
+Firebase Auth Or OAuth
 
 Real-Time Communication
 Socket.IO
@@ -46,7 +45,6 @@ State Management
 Testing
 Jest
 Vitest
-Playwright
 
 Deployment
 Vercel
@@ -90,7 +88,6 @@ Join events
 Vote in polls
 Ask questions
 Participate in quizzes
-Generate word clouds
 Submit feedback
 
 Sprint Breakdown
